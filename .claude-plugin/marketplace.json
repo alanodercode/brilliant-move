@@ -1,0 +1,5 @@
+{
+  "name": "brilliant-move",
+  "owner": { "name": "Alan Simon" },
+  "plugins": [{ "name": "brilliant-move", "source": "./" }]
+}

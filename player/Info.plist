@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.github.alanodercode.brilliant-move</string>
+<key>CFBundleName</key><string>Brilliant Move</string>
+<key>NSPhotoLibraryUsageDescription</key><string>Copies the videos from your "Brilliant Moves" album so Claude can play one when you have a brilliant idea.</string>
+</dict></plist>

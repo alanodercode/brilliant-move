@@ -1,0 +1,6 @@
+{
+  "name": "brilliant-move",
+  "version": "1.0.0",
+  "description": "Claude plays one of your edits as a little treat whenever you have a genuinely brilliant idea. macOS.",
+  "author": { "name": "Alan Simon", "url": "https://github.com/alanodercode" }
+}
